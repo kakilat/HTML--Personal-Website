@@ -7,3 +7,47 @@ hr {
     border-style: none;
     height: 2px;
 }
+
+.profile {
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    top: 80px;
+    left: 10px;
+}
+
+.containt {
+    width: 500px;
+    height: 100px;
+    padding-left: 250px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: monospace;
+    color: #3b193b;
+}
+
+.about {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    color: #552355;
+    font-style: normal;
+}
+
+.html_validator {
+    width: 100px;
+    height: 80px;
+    margin: auto;
+    margin: 20px;
+    left: 10px;
+}
+
+.css_validator {
+    width: 100px;
+    height: 80px;
+    margin: 20px;
+}
